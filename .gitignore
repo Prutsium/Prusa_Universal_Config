@@ -8,6 +8,7 @@ printer.cfg
 resonance.cfg
 resonances.cfg
 moonraker.conf
+mainsail.cfg
 mcu.cfg
 *.rsuser
 *.suo
