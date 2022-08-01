@@ -16,6 +16,8 @@ mcu.cfg
 *.userosscache
 *.sln.docstates
 .idea/
+.moonraker.conf.bkp
+.variables.cfg
 webcam.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
